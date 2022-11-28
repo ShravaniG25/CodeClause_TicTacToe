@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="o">O\'s Turn - Tap to play</string>
+    <string name="x">X\'s Turn - Tap to play</string>
+    <!--<string name="app_name">TicTacToe</string>
+    <string name="app_name">TicTacToe</string>
+    <string name="app_name">TicTacToe</string>-->
+
+</resources>
