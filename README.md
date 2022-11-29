@@ -5,4 +5,4 @@ Developed Using Java.
 
 Snapshots of App:
 
-<img src>
+<img src="./tictactoe_app.gif" alt="./tictactoe_app.gif" height="720">
